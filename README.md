@@ -1,2 +1,3 @@
 # travis-test
-My Travis CI test
+
+a [Sails](http://sailsjs.org) application
